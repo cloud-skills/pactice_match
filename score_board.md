@@ -3,6 +3,6 @@
 - 이승준
   - Request : 0 점
 - 임태현
-  - Request : 10,000 점
+  - Request : 15,000 점
 - 정현문
-  - Request : 10,000 점
+  - Request : 15,000 점
