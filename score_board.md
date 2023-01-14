@@ -1,8 +1,8 @@
 - 박종민
-  - Request : 10,239 점
+  - Request : 10,839 점
 - 이승준
-  - Request : 5,843 점
+  - Request : 6,443 점
 - 임태현
-  - Request : 30,919 점
+  - Request : 31,110 점
 - 정현문
-  - Request : 33,222 점
+  - Request : 33,822 점
